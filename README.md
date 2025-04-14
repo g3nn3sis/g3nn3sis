@@ -2,17 +2,7 @@
 <p align="center"> @g3nn3sis on discord </p>  
 
 <p align="center">  
-  I like making mods for  
-  <a href="https://www.gorillatagvr.com">Gorilla Tag</a> <br>
-  Or making fun little Unity Games when I am bored. <br>
-<p align="center">Languages I use</p>
-</p>
-<p align="center">  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
-  </a>  
+  I like making mods for <a href="https://www.gorillatagvr.com">Gorilla Tag</a> <br>
+  I also like making stuff in <a href="python.org">Python</a> <br>
 </p>
 
