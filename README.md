@@ -4,7 +4,7 @@
 <p align="center">  
   I like making mods for <a href="https://www.gorillatagvr.com">Gorilla Tag</a> <br>
   I also like making stuff in <a href="https://www.python.org">Python</a> <br>
- <a href="https://www.linktr.ee/g3nn3sis">Linktree</a> <br>
+  My <a href="https://www.linktr.ee/g3nn3sis">LinkTree</a> <br>
 </p>
 <br>
 <br>
