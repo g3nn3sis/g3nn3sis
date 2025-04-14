@@ -5,4 +5,8 @@
   I like making mods for <a href="https://www.gorillatagvr.com">Gorilla Tag</a> <br>
   I also like making stuff in <a href="https://www.python.org">Python</a> <br>
 </p>
+<br>
+<br>
+<p align="center">Random Cat</p>
+<img src="[example.png](https://cataas.com/cat?type=square)" alt="Example." style="width:auto;">
 
