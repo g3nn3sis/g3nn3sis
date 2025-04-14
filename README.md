@@ -9,9 +9,6 @@
 <br>
 <h1 align="center">Random Cat</h1>  
 <p align="center">
-  <img src="https://cataas.com/cat?type=square" alt="Couldn't Load Cat." style="width:auto;">
-  <img src="https://cataas.com/cat" alt="Couldn't Load Cat." style="width:auto;">
-  <img src="https://cataas.com/cat?type=square" alt="Couldn't Load Cat." style="width:auto;">
   <img src="https://cataas.com/cat" alt="Couldn't Load Cat." style="width:auto;">
 </p>
 
