@@ -8,8 +8,7 @@
 </p>
 <br>
 <br>
-<h1 align="center">Random Cat</h1>  
 <p align="center">
-  <img src="https://cataas.com/cat" alt="Couldn't Load Cat." style="width:200; height:200;">
+  <img src="https://cataas.com/cat" alt="Couldn't Load Cat." width=200 height=100>
 </p>
 
