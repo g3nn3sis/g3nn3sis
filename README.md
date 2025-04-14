@@ -9,6 +9,6 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://cataas.com/cat" alt="Couldn't Load Cat." width=200 height=100>
+  <img src="https://cataas.com/cat" alt="Couldn't Load Cat." width=250 height=175>
 </p>
 
