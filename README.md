@@ -4,11 +4,12 @@
 <p align="center">  
   I like making mods for <a href="https://www.gorillatagvr.com">Gorilla Tag</a> <br>
   I also like making stuff in <a href="https://www.python.org">Python</a> <br>
+ <a href="https://www.linktr.ee/g3nn3sis">Linktree</a> <br>
 </p>
 <br>
 <br>
 <h1 align="center">Random Cat</h1>  
 <p align="center">
-  <img src="https://cataas.com/cat" alt="Couldn't Load Cat." style="width:auto;">
+  <img src="https://cataas.com/cat" alt="Couldn't Load Cat." style="width:200; height:200;">
 </p>
 
