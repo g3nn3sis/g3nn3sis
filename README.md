@@ -8,5 +8,5 @@
 <br>
 <br>
 <p align="center">Random Cat</p>
-<img src="[example.png](https://cataas.com/cat?type=square)" alt="Example." style="width:auto;">
+<img src="https://cataas.com/cat?type=square" alt="Example." style="width:auto;">
 
