@@ -7,7 +7,6 @@
   My <a href="https://www.linktr.ee/g3nn3sis">LinkTree</a> <br>
 </p>
 <br>
-<br>
 <p align="center">
   <img src="https://cataas.com/cat" alt="Couldn't Load Cat." width=250 height=175>
 </p>
