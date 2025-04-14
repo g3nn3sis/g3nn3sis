@@ -3,6 +3,6 @@
 
 <p align="center">  
   I like making mods for <a href="https://www.gorillatagvr.com">Gorilla Tag</a> <br>
-  I also like making stuff in <a href="python.org">Python</a> <br>
+  I also like making stuff in <a href="https://www.python.org">Python</a> <br>
 </p>
 
