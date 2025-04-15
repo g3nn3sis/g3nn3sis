@@ -8,6 +8,7 @@
 </p>
 <br>
 <p align="center">
+  Daily Cat Image
   <img src="https://cataas.com/cat" alt="Couldn't Load Cat." width=250 height=175>
 </p>
 
