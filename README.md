@@ -1,9 +1,11 @@
-<h1 align="center">I am g3nn3sis.</h1>  
+<h1 align="center">Hello, I am gennesis!</h1>  
+
 <p align="center">  
-  I like making stuff in <a href="https://www.python.org">Python.</a> <br>
-  <a href="https://gennesis.cc">gennesis.cc</a> (My Website)!<br>
+  I like making stuff in <a href="https://www.python.org">Python, and <a href="https://dotnet.microsoft.com/en-us/languages/csharp">C# </a> <br>
+  <a href="https://gennesis.cc">My Site<br>
 </p>
+
 <br>
 <p align="center">
-  <img src="https://cataas.com/cat" alt="Couldn't Load Cat." width=250 height=175>
+  <p>Goodbye</p>
 </p>
