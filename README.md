@@ -1,5 +1,7 @@
 <h1 align="center">Hello, I am gennesis!</h1>  
 
-<p align="center">  
-  I like making stuff in <a href="https://www.python.org">Python</a>, and <a href="https://dotnet.microsoft.com/en-us/languages/csharp">C# </a> <br>
-</p>
+- Creator of <a href="https://github.com/g3nn3sis/GenneCaster">GenneCaster</a>
+- Small knowledge of SQL, C#, and Python
+- Find me at https://gennesis.cc
+
+![](https://komarev.com/ghpvc/?username=g3nn3sis&color=red)
