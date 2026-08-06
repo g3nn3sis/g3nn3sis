@@ -1,1 +1,3 @@
-- Find me at https://gennesis.cc
+you should visit gennesis.cc, cool suprises await you.
+
+learning C++ C# and Python
